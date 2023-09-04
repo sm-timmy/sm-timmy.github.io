@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+html::-webkit-scrollbar { width: 0;} 
+html { 
+    -ms-overflow-style: 0;
+    scroll-behavior: smooth;
+} 
+
+@font-face {
+    font-family: 'Inter';
+    font-weight: 400;
+    src: local('Inter-Regular'), url(../../vendor/Inter-Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-weight: 500;
+    src: local('Inter-Medium'), url(../../vendor/Inter-Medium.woff2) format('woff2');
+}
+
+
+                              

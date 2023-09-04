@@ -1,0 +1,23 @@
+.title {
+    display: block;
+    width: 100%;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.88px;
+    /* margin-top: 110px; */
+    padding-top: 70px;
+}
+.title:after {
+    content: "";
+    display: block;
+    /* border: 1px solid #000; */
+    background-color: #000;
+    height: 1px;
+    width: 100%;
+    margin-top: 23px;
+    margin-bottom: 100px;
+    
+}

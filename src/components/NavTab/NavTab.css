@@ -1,0 +1,31 @@
+.navigation {
+  display: flex;
+  align-items: center;
+}
+
+.navigation__link {
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px; 
+  color: black;
+  padding: 10px 20px;
+  
+}
+
+
+
+@media (max-width: 900px) {
+  .navigation__link {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 12px;
+    line-height: 14px; 
+    padding: 10px 12px;
+    width: 90px;
+  }
+}
