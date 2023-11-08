@@ -1,1 +1,3 @@
-# sm-timmy.github.io
+# artchernov.ru
+
+Мое портфолио, написанное на React
